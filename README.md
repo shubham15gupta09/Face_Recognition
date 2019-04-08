@@ -9,7 +9,7 @@ Installing on Mac or Linux</br>
 First, make sure you have dlib already installed with Python bindings:</br>
 Then, install this module from pypi using pip3 (or pip2 for Python 2):</br>
        <t> pip3 install face_recognition</t>
-       
-#Made in Group with  
-* Mohak Bahal
-* Mohammad sofiyan
+</br>
+#Made in Group with </br>
+* Mohak Bahal</br>
+* Mohammad sofiyan</br>
